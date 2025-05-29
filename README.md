@@ -5,5 +5,5 @@
     Physics,
     Biochemistry,
     Web Development,
-    Architecture
+    Architectural Engineering
 
