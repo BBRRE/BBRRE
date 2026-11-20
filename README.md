@@ -5,5 +5,5 @@ I'm interested in :
 - Physics,
 - Chemistry,
 - Web Development,
-- Architecture and urban design
+- Architecture and urban planning
 
